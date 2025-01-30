@@ -1,6 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto. Visando contextualizar melhor o projeto e destacar sua importância para a disciplina, que é **extensionista**, acrescente todas as informações relevantes que julgar necessárias.
+
+## Cliente 
+Nesta seção, devem ser apresentadas informações essenciais sobre o cliente (parceiro) para garantir um entendimento mais preciso do projeto como uma iniciativa extensionista.  
+
+Recomenda-se incluir dados como missão, visão e valores da organização, além de seu ramo de atuação, porte, nicho de mercado e principais desafios enfrentados. Também é relevante fornecer informações sobre sua localização, histórico, impacto social e possíveis demandas específicas. Quanto mais detalhadas forem essas informações, mais embasada será a análise do contexto, permitindo uma abordagem estratégica e alinhada às necessidades do cliente.
 
 ## Problema
 Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
